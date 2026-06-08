@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Cross-Market Intelligence & Multi-Asset Analytics Engine
 
 [![GitHub followers](https://img.shields.io/github/followers/Vipeen21?style=for-the-badge&color=21262d&labelColor=161b22&logo=github)](https://github.com/Vipeen21)
@@ -116,6 +116,3 @@ If this platform enhances your market surveillance workflows or quantitative ana
 
 `#QuantitativeFinance` `#TechnicalAnalysis` `#DataScience` `#OpenBB` `#MarketSurveillance` `#FinTech` `#DataVisualization`
 
-```
-
-```
